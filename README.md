@@ -5,6 +5,8 @@
 
 > [Elastic EUI](https://github.com/elastic/eui) SVG icons as Svelte components.
 
+Try it in the [Svelte REPL](https://svelte.dev/repl/f5d1c006b8e444ea91274036261976eb?version=3).
+
 ## Install
 
 This library requires svelte version >=3.20.x because it uses `$$restProps`.
